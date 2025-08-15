@@ -9,7 +9,6 @@ const model = new ChatOpenAI({ model: 'gpt-4o' });
 const messages = [
   new SystemMessage('You are a helpful assistant.'),
   new HumanMessage('What is the capital of France?'),
-  { role: 'user', content: 'za' },
 ];
 
 async function main() {
