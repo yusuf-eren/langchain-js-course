@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Kırmızı Spor Ayakkabı",
+    "category": "Ayakkabı",
+    "description": "Rahat tabanlı, günlük kullanım için kırmızı spor ayakkabı.",
+    "price": 1299,
+    "tags": ["ayakkabı", "spor", "kırmızı", "günlük"]
+  },
+  {
+    "id": 2,
+    "name": "Siyah Deri Çanta",
+    "category": "Çanta",
+    "description": "Hakiki deriden üretilmiş, iş ve günlük kullanım için uygun omuz çantası.",
+    "price": 1899,
+    "tags": ["çanta", "deri", "siyah", "omuz"]
+  },
+  {
+    "id": 3,
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "description": "Bluetooth 5.3 destekli, gürültü engelleyici kablosuz kulaklık.",
+    "price": 1599,
+    "tags": ["elektronik", "kulaklık", "kablosuz", "bluetooth"]
+  },
+  {
+    "id": 4,
+    "name": "Mavi Kot Pantolon",
+    "category": "Giyim",
+    "description": "Slim fit kesim, dayanıklı mavi kot pantolon.",
+    "price": 899,
+    "tags": ["giyim", "pantolon", "kot", "mavi"]
+  },
+  {
+    "id": 5,
+    "name": "Akıllı Saat",
+    "category": "Elektronik",
+    "description": "Kalp atışı ölçer, GPS ve uyku takibi özellikli akıllı saat.",
+    "price": 2499,
+    "tags": ["elektronik", "saat", "akıllı", "giyilebilir"]
+  },
+  {
+    "id": 6,
+    "name": "Kahverengi Deri Cüzdan",
+    "category": "Aksesuar",
+    "description": "Çok bölmeli, şık kahverengi deri cüzdan.",
+    "price": 499,
+    "tags": ["aksesuar", "cüzdan", "deri", "kahverengi"]
+  },
+  {
+    "id": 7,
+    "name": "Beyaz Tişört",
+    "category": "Giyim",
+    "description": "Pamuklu, nefes alabilir beyaz tişört.",
+    "price": 299,
+    "tags": ["giyim", "tişört", "beyaz", "pamuk"]
+  },
+  {
+    "id": 8,
+    "name": "Oyun Konsolu",
+    "category": "Elektronik",
+    "description": "4K destekli, 1TB depolama kapasiteli yeni nesil oyun konsolu.",
+    "price": 8999,
+    "tags": ["elektronik", "oyun", "konsol", "4k"]
+  },
+  {
+    "id": 9,
+    "name": "Kamp Çadırı",
+    "category": "Outdoor",
+    "description": "2 kişilik, su geçirmez ve rüzgar dayanıklı kamp çadırı.",
+    "price": 3499,
+    "tags": ["outdoor", "kamp", "çadır", "su geçirmez"]
+  },
+  {
+    "id": 10,
+    "name": "Yemek Takımı",
+    "category": "Ev & Yaşam",
+    "description": "12 parçalık, seramik tabak ve kase seti.",
+    "price": 1299,
+    "tags": ["ev", "mutfak", "yemek takımı", "seramik"]
+  }
+]
